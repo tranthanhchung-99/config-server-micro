@@ -4,7 +4,7 @@ build:
   version: "2.0"
 
 loans:
-  message : "message demo loans QA new after actuator"
+  message : "message demo loans QA new after spring bus"
   contactDetails:
     name: "name"
     email: "email@gmail.com"
