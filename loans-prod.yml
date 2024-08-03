@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 loans:
-  message : "message demo  loans prod"
+  message : "message demo  loans production"
   contactDetails:
     name: "name"
     email: "email@gmail.com"
