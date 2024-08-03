@@ -5,7 +5,7 @@ build:
 account:
   message: "message demo product"
   contactDetail:
-    email: "demo_pro_email@gmail.com"
+    email: "{cipher}b3ba0e36da6078669d232afe851a864e83b5682de26c9dbcc5bef182829b78a2ace7ade47f4b2dc8aff0d6914cec4a19"
     name: "TranThanhChung-99"
   onCallSupport:
     - 0942358876
