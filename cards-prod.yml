@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "message for card demo production after spring bus v3"
+  message: "message for card demo production after spring bus v3 webhook"
   contactDetails:
     name: "name prod"
     email: "email_prod_@gmail.com"
