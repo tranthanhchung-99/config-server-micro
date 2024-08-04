@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 account:
-  message: "message demo production after spring bus 2"
+  message: "message demo production after spring bus v3"
   contactDetail:
     email: "{cipher}9cb27a14a6e365be5d16936b7be37a2f251dfd06bdd5dcd7480a93e1160796aab73fa7ca38323c488e917e5511ffd925"
     name: "TranThanhChung-99"
