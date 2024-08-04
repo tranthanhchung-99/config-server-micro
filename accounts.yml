@@ -5,7 +5,7 @@ build:
 account:
   message: "message demo"
   contactDetail:
-    email: "demoemail@gmail.com"
+    email: "demoemail@gmail.com local docker"
     name: "TranThanhChung-99"
   onCallSupport:
     - 0942358876
